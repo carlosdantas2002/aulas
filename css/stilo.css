@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+#caixa{
+    
+}
+#calc {
+    list-style: none;
+    margin-left: 800px;
+    margin-top: 20%;
+    height: 200px;
+    width: 50px;
+}
+#calc li{
+    background-color: blueviolet;
+    list-style: none;
+    
+}
